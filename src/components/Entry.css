@@ -4,6 +4,8 @@ article {
     font-family: Inter;
     font-weight: 500;
     margin: 35px 40px;
+    align-items: center;
+    justify-content: center;
 }
 
 article.journal-entry {
